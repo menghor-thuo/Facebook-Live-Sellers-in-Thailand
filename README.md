@@ -1,0 +1,8 @@
+# Facebook-Live-Seller-in-Thailand
+## Introduction 
+Facebook Live Sellers in Thailand, highlighting the growing phenomenon of live selling, especially in Asian regions. As digitalization and social media usage continue to rise, platforms such as Facebook play a crucial role in helping small vendors extend their reach and interact with a larger audience. This has led to the widespread adoption of live selling practices among businesses.
+The dataset, obtained from the UCI Machine Learning Repository. The dataset’s research paper, authored by Nassim Dehouche and Apiradee Wongkitrungrueng, titled “Facebook Live as a Direct Selling Channel,” was presented at the ANZMAC 2018 conference. This paper underscores the significance of Facebook Live as a viable channel for direct selling, highlighting its potential as a lucrative avenue for businesses to connect with customers in real-time.
+By delving into this dataset, researchers and practitioners gain insights into the dynamics of live selling in Thailand, exploring factors such as seller attributes, product categories, audience engagement metrics, and more. Such analyses can inform marketing strategies, consumer behavior studies, and platform optimization efforts in the context of live selling and digital commerce.
+## Notebook description
+This notebooks include PreProcessing, EDA, Feature engineering and Feature extraction via PCA and Clustering.
+I have used elbow method to determine the apropriate value for the number of clusters, so that I can use it in K-means, Hierarchical, DBCSAN, Spectral clustering. Finally, Evaluating the performance of the clustering algorithms has been done with loss function.
